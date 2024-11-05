@@ -1,11 +1,11 @@
-1. Receita: Crepioca Simples
+1. RECEITA: CREPIOCA SIMPLES
 
-### Ingredientes:
+### INGREDIENTES:
 - 1 ovo
 - 1 colher de sopa de tapioca
 - Sal a gosto
 
-### Modo de Preparo:
+### MODO DE PREPARO:
 1. Em uma tigela, quebre o ovo e misture bem com a tapioca até obter uma massa homogênea. 
 Adicione uma pitada de sal a gosto.
 2. Aqueça uma frigideira antiaderente em fogo médio e, se preferir, 
@@ -13,10 +13,13 @@ adicione um fio de azeite ou um pouco de manteiga.
 3. Despeje a mistura na frigideira, espalhando para que cubra todo o fundo.
 4. Cozinhe por 2-3 minutos de cada lado, ou até que esteja dourada e firme.
 
-2. Receita: Bolo de Chocolate
+###########################################################################
 
-###Ingredientes:
-Massa
+2. RECEITA: BOLO DE CHOCOLATE
+
+###INGREDIENTES:
+
+MASSA:
 2 xícaras (chá) de farinha de trigo
 1 xícara (chá) de açúcar
 1 xícara (chá) de chocolate em pó
@@ -29,29 +32,31 @@ Cobertura (ganache)
 1 caixinha de creme de leite (200g)
 1 colher (sopa) de manteiga
 
-###Modo de Preparo
-Massa
+### MODO DE PREPARO:
+MASSA:
 -Pré-aqueça o forno a 180°C e unte uma forma com manteiga e farinha.
 -Em uma tigela, misture a farinha de trigo, o açúcar e o chocolate em pó.
 -Acrescente o leite, o óleo e os ovos, misturando bem até obter uma massa homogênea.
 -Adicione o fermento em pó e misture delicadamente.
 -Despeje a massa na forma e leve ao forno por aproximadamente 35-40 minutos ou até que, ao espetar um palito no centro do bolo, ele saia limpo.
 
-###Cobertura
+###COBERTURA:
 -Derreta o chocolate em banho-maria ou no micro-ondas (em intervalos curtos, mexendo para não queimar).
 -Adicione o creme de leite e a manteiga, misturando até obter uma ganache lisa e brilhante.
 -Quando o bolo estiver assado e morno, espalhe a cobertura por cima.
 
-3. Receita: Brigadeiro
+###########################################################################
 
-###Ingredientes:
+3. RECEITA: BRIGADEIRO
+
+###INGREDIENTES:
 1 lata de leite condensado (395 g)
 160 ml de leite (½ medida da lata de leite condensado)
 1 colher (sopa) de manteiga
 3 colheres (sopa) de chocolate em pó
 2 xícaras (chá) de chocolate granulado
 
-###Modo de Preparo:
+### MODO DE PREPARO:
 -Você vai precisar de 30 forminhas de brigadeiro
 -Com um pincel, unte um prato com um pouco de manteiga. Reserve.
 -Separe as forminhas umas das outras com cuidado e disponha numa travessa pequena. Reserve.
@@ -60,15 +65,17 @@ Massa
 -Numa tigela, coloque o chocolate granulado e deixe ao lado do prato com a massa de brigadeiro.
 -Espalhe um pouco de manteiga na palma das mãos e, com a ajuda de 1 colher de chá, faça bolinhas de 2,5 cm. Passe as bolinhas pela tigela com o chocolate granulado, envolvendo cada uma muito bem. Em seguida, coloque as bolinhas nas forminhas. Sirva a seguir.
 
-4. Receita: Pudim
+###########################################################################
 
-###Ingredientes:
+4. RECEITA: PUDIM
+
+###INGREDIENTES:
 6 colheres de sopa de açúcar refinado
 1 lata de leite condensado
 1 lata de leite, use a mesma medida do leite condensado
 3 ovos
 
-###Modo de Preparo:
+### MODO DE PREPARO:
 -Numa forma para pudim, de 20 centímetros de diâmetro, coloque 6 colheres de sopa de açúcar e leve ao fogo médio até virar uma calda caramelada, por mais ou menos 3 minutos.
 -Retire do fogo e vá virando a fôrma, de modo que a calda forre todo o fundo e lateral da mesma. Reserve.
 -Num liquidificador coloque uma lata de leite condensado, uma lata de leite, a mesma medida da lata de leite condensado, e 3 ovos e bata bem por mais ou menos 1 minuto.
