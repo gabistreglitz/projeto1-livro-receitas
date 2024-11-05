@@ -1,3 +1,4 @@
+###########################################################################
 1. RECEITA: CREPIOCA SIMPLES
 
 ### INGREDIENTES:
@@ -19,7 +20,7 @@ adicione um fio de azeite ou um pouco de manteiga.
 
 ###INGREDIENTES:
 
-MASSA:
+###MASSA:
 2 xícaras (chá) de farinha de trigo
 1 xícara (chá) de açúcar
 1 xícara (chá) de chocolate em pó
@@ -33,7 +34,7 @@ Cobertura (ganache)
 1 colher (sopa) de manteiga
 
 ### MODO DE PREPARO:
-MASSA:
+###MASSA:
 -Pré-aqueça o forno a 180°C e unte uma forma com manteiga e farinha.
 -Em uma tigela, misture a farinha de trigo, o açúcar e o chocolate em pó.
 -Acrescente o leite, o óleo e os ovos, misturando bem até obter uma massa homogênea.
